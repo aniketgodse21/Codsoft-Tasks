@@ -9,28 +9,18 @@ A simple C++ program where the computer generates a random number and the player
 - **User Input Validation:** Ensures the game continues until the correct guess is made.
 - **Interactive Feedback:** Real-time hints to guide the player.
 
+Task 2: Simple Calculator.
 
-## Sample Output of:(task1_guessing_game.cpp)
+## Description:
+A basic C++ calculator that does everyday math. The user enters two numbers and picks an operator (+, -, *, /). The program then calculates the answer and makes sure no math errors crash the system.
 
- Welcome to the Number Guessing Game #1
+## Features:
+- **Basic Math:** Easily adds, subtracts, multiplies, and divides numbers based on the user's choice.
+- **Smart Error Checking:** Stops the program from crashing if someone accidentally tries to divide a number by zero.
+- **Keep Calculating:** Uses a loop so the user can do as many calculations as they want without having to restart the app.
 
-==========================================
-   NEW GAME STARTED: Guess (1 to 100)    
-==========================================
-Enter your guess: 50
->> Too LOW! Try a larger number.
-Enter your guess: 85
->> Too HIGH! Try a smaller number.
-Enter your guess: abc
-[!] Invalid input. Please enter a number.
-Enter your guess: 70
->> Too LOW! Try a larger number.
-Enter your guess: 78
 
-[SUCCESS] You nailed it! The number was 78.
-[STATS] Total attempts: 4
 
-Would you like to play another round? (Yes/No): No
 
 
 
