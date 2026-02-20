@@ -19,20 +19,18 @@ A simple C++ program where the computer generates a random number and the player
 ==========================================
 Enter your guess: 50
 >> Too LOW! Try a larger number.
-Enter your guess: 75
+Enter your guess: 85
 >> Too HIGH! Try a smaller number.
 Enter your guess: abc
 [!] Invalid input. Please enter a number.
-Enter your guess: 62
+Enter your guess: 70
 >> Too LOW! Try a larger number.
-Enter your guess: 68
+Enter your guess: 78
 
-[SUCCESS] You nailed it! The number was 68.
+[SUCCESS] You nailed it! The number was 78.
 [STATS] Total attempts: 4
 
 Would you like to play another round? (Yes/No): No
-
-Thank you for playing! Task #1 Complete.
 
 
 
