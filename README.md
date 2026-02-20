@@ -9,6 +9,8 @@ A simple C++ program where the computer generates a random number and the player
 - **User Input Validation:** Ensures the game continues until the correct guess is made.
 - **Interactive Feedback:** Real-time hints to guide the player.
 
+
+
 Task 2: Simple Calculator.
 
 ## Description:
