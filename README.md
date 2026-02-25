@@ -1,5 +1,5 @@
 # Codsoft Tasks
- Task 1: Number Guessing Game.
+ **Task 1: Number Guessing Game.**
 
 ## Description:
 A simple C++ program where the computer generates a random number and the player has to guess it. The program provides feedback if the guess is "Too High" or "Too Low" and tracks the number of attempts.
@@ -11,7 +11,7 @@ A simple C++ program where the computer generates a random number and the player
 
 
 
-Task 2: Simple Calculator.
+**Task 2: Simple Calculator.**
 
 ## Description:
 A basic C++ calculator that does everyday math. The user enters two numbers and picks an operator (+, -, *, /). The program then calculates the answer and makes sure no math errors crash the system.
@@ -23,7 +23,7 @@ A basic C++ calculator that does everyday math. The user enters two numbers and 
 
 
 
-Task 3: Tic-Tac-Toe Game.
+**Task 3: Tic-Tac-Toe Game.**
 
 ## Description:
 
@@ -50,6 +50,38 @@ A simple console-based C++ game where two players take turns playing Tic-Tac-Toe
 **Win the Game:** The first player to get three of their markers in a row (horizontally, vertically, or diagonally) wins!
 
 **Draw:** If all 9 squares are filled up and no one has matched three in a row, the game automatically ends in a tie.
+
+
+
+
+
+**Task 4: To-Do List.**
+
+
+## Description:
+
+A friendly and interactive C++ console application that acts as a personal task assistant. It allows users to easily keep track of their daily tasks by adding, viewing, completing, and removing items from a dynamic list.
+Features:
+
+**Dynamic Task Management:** Uses C++ vectors to smoothly add and store multiple tasks during the session.
+
+**Interactive Status Tracking:** Clearly displays tasks as [TASK PENDING] or [TASK COMPLETED] so users know exactly what is left to do.
+
+**Smart Deletion & Confirmation:** Allows users to remove unwanted tasks while providing a safety (y/n) prompt to prevent accidental deletions.
+
+**Session Summary:** Calculates and displays a final breakdown of completed versus pending tasks before the user exits the program.
+
+## How to Use:
+
+**Start the App:** Run the program to be greeted by your personal task assistant and view the main menu.
+
+**Add Tasks:** Type '1' to enter a new task description and add it to your active list.
+
+**View & Complete:** Type '2' to check your list, and type '3' to select a specific task number to mark as done.
+
+**Clean Up:** Type '4' to delete a task you no longer need, keeping your list organized.
+
+**Exit the App:** Type '5' to close the assistant and see your final productivity summary for the day!
 
 
 
